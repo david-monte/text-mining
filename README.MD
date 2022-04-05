@@ -8,6 +8,10 @@ https://drive.google.com/file/d/1o_9X5Q60TD-Mq9FwR33aZJyVFmxy0q-u/view?usp=shari
 
 Acessar com a conta "@cin.ufpe.br".
 
+## Link para o Dashboard Desenvolvido
+
+https://public.tableau.com/views/MonitoramentodeReviews/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ## Descrição do Repositório
 1. Pasta `Apresentação`
 <br> Contém um vídeo de aproximadamente 15 minutos no qual é feito a apresentação do projeto desenvolvido.
