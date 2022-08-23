@@ -2,7 +2,7 @@
 ### Equipe: 
 David Soares do Monte & Wanderson Rodrigues Marques
 
-![facebook-g5244daba1_1920](https://user-images.githubusercontent.com/91763957/186176725-918f6a59-641d-4485-bcf4-6dad35b92bc9.jpg)
+<img src="https://cdn.pixabay.com/photo/2014/08/22/15/27/facebook-424521_960_720.jpg"  width="480" height="360">
 
 ## Link para o Vídeo com a Apresentação do Projeto
 
