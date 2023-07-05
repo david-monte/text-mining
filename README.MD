@@ -12,7 +12,7 @@ Acessar com a conta "@cin.ufpe.br".
 
 ## Link para o Dashboard Desenvolvido
 
-https://public.tableau.com/views/MonitoramentodeReviews/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/david.soares/viz/MonitoramentodeReviews/Dashboard1
 
 ## Descrição do Repositório
 1. Pasta `Apresentação`
